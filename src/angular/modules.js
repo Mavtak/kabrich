@@ -3,6 +3,7 @@ angular.module('kabrich', [
   'kabrich.slice',
   'kabrich.tour',
   'kabrich.templates',
+  'ui.router',
 ]);
 
 angular.module('kabrich.layout', [
