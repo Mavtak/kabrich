@@ -1,0 +1,21 @@
+{
+  "name": "kabrich",
+  "version": "1.0.0",
+  "description": "a base website for a rental property advertisement.",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavtak/kabrich.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "David McGrath",
+    "email": "kabrich@davidmcgrath.com.com",
+    "url": "http://davidmcgrath.com/"
+  },
+  "license": "ISC"
+}
