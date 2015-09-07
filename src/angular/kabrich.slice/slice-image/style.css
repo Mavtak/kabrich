@@ -1,0 +1,7 @@
+slice-image img {
+  position: relative;
+}
+
+slice-image img[loading] {
+  visibility: hidden;
+}
