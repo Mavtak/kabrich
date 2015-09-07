@@ -1,0 +1,27 @@
+slice-text {
+  color: white;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  text-shadow:
+   -2px -2px 0 black,
+    2px -2px 0 black,
+   -2px  2px 0 black,
+    2px  2px 0 black;
+}
+
+slice-text[title] {
+  text-align: right;
+  z-index: 10;
+  margin: 2%;
+}
+
+slice-text[description] {
+  top: inherit;
+  z-index: 5;
+  margin: 1%;
+}
